@@ -1,2 +1,2 @@
-# about-chrisPittman
+# about-chrispittman
 A description about myself
