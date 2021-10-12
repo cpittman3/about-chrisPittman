@@ -6,14 +6,17 @@
     left:     35px;
     top:      100px;
 }
+
+p {
+  font: bold 18pt/18pt "Times New Roman"
+}
+
 p {
     justify-content: center;
-    font-family: "Times New Roman";
     color:       white;
-    font-size:   25px;
     position:    relative;
     bottom:      180px;
-    left:        340px;
+    left:        330px;
 
 }
 .back-line {
@@ -21,7 +24,7 @@ p {
     border:    0;
     margin:    0;
     background-color: black;
-    opacity:  .8;
+    opacity:  0.8;
     width:    1200px;
     height:   400px;
     position: absolute;
