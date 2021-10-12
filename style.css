@@ -1,19 +1,19 @@
 #portraitImg {
-     background-color: darkblue;
-      height:   280px;
-      width:    260px;
-      position: relative;
-      left:     35px;
-      top:      100px;
+    background-color: darkblue;
+    height:   280px;
+    width:    260px;
+    position: relative;
+    left:     35px;
+    top:      100px;
 }
 p {
     justify-content: center;
     font-family: "Times New Roman";
-    color:     white;
-    font-size: 25px;
-    position:  relative;
-    bottom:    180px;
-    left:      340px;
+    color:       white;
+    font-size:   25px;
+    position:    relative;
+    bottom:      180px;
+    left:        340px;
 
 }
 .back-line {
