@@ -1,5 +1,5 @@
 #portraitImg {
-     background-color: blue;
+     background-color: darkblue;
       height:   280px;
       width:    260px;
       position: relative;
@@ -12,7 +12,7 @@ p {
     color:     white;
     font-size: 25px;
     position:  relative;
-    bottom:    200px;
+    bottom:    180px;
     left:      340px;
 
 }
@@ -29,6 +29,6 @@ p {
     z-index:  -1;
 }
 body {
-    background-color: blue;
+    background-color: darkblue;
     z-index: -2;
 }
